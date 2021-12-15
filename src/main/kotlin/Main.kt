@@ -9,6 +9,7 @@ fun main() {
     val questionsMarks = QuestionsMarks()
     val userNameValidation = UsernameValidation()
     val veryBigSum = VeryBigSum()
+    val simpleArraySum = SimpleArraySum()
 
 
     compareTheTriples.main()
@@ -19,4 +20,5 @@ fun main() {
     veryBigSum.main()
     userNameValidation.main()
     questionsMarks.main()
+    simpleArraySum.main()
 }
