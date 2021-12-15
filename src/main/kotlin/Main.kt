@@ -10,7 +10,7 @@ fun main() {
     val userNameValidation = UsernameValidation()
     val veryBigSum = VeryBigSum()
     val simpleArraySum = SimpleArraySum()
-
+    val solveMyFirst = SolveMyFirst()
 
     compareTheTriples.main()
     findIntersection.main()
@@ -21,4 +21,5 @@ fun main() {
     userNameValidation.main()
     questionsMarks.main()
     simpleArraySum.main()
+    solveMyFirst.main()
 }
