@@ -11,6 +11,7 @@ fun main() {
     val veryBigSum = VeryBigSum()
     val simpleArraySum = SimpleArraySum()
     val solveMyFirst = SolveMyFirst()
+    val salesMyMatch = SalesMyMatch()
 
     compareTheTriples.main()
     findIntersection.main()
@@ -22,4 +23,5 @@ fun main() {
     questionsMarks.main()
     simpleArraySum.main()
     solveMyFirst.main()
+    salesMyMatch.main()
 }
