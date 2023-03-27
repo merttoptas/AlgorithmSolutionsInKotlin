@@ -18,3 +18,4 @@ This repository contains solutions to CoderByte and Hackerrank practice problems
     - Questions Marks | [Solution](https://github.com/merttoptas/AlgorithmSolutionsInKotlin/blob/master/src/main/kotlin/challange/QuestionsMarks.kt)
     - Username Validation | [Solution](https://github.com/merttoptas/AlgorithmSolutionsInKotlin/blob/master/src/main/kotlin/challange/UsernameValidation.kt)
     - Sales my Match | [Problem](https://www.hackerrank.com/challenges/sales-my-match/problem) | [Solution](https://github.com/merttoptas/AlgorithmSolutionsInKotlin/blob/master/src/main/kotlin/challange/SalesMyMatch.kt)
+    - Two Sum | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/merttoptas/AlgorithmSolutionsInKotlin/blob/master/src/main/kotlin/challange/easy/TwoSum.kt)

@@ -1,4 +1,5 @@
 import challange.*
+import challange.easy.TwoSum
 
 fun main() {
     val compareTheTriples = CompareTheTriples()
@@ -12,6 +13,7 @@ fun main() {
     val simpleArraySum = SimpleArraySum()
     val solveMyFirst = SolveMyFirst()
     val salesMyMatch = SalesMyMatch()
+    val twoSum = TwoSum()
 
     compareTheTriples.main()
     findIntersection.main()
@@ -24,4 +26,5 @@ fun main() {
     simpleArraySum.main()
     solveMyFirst.main()
     salesMyMatch.main()
+    twoSum.main()
 }
